@@ -1,0 +1,62 @@
+body {
+    font-family: Arial;
+    margin: 0;
+}
+
+.login {
+    padding: 50px;
+    height: 100%;
+}
+
+.login .ms-Grid-col {
+    margin: 20px auto;
+    width: 300px;
+    float: none;
+    border: 1px solid #3498DB;
+}
+
+.login-screen {
+    background-color: #FFF;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.ms-Button {
+    margin-top: 10px;
+}
+
+.app-title {
+    text-align: center;
+    color: #777;
+}
+
+.panel {
+    width: 100%;
+    margin: 20px 5px;
+    background-color: #fff;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    border-color: #337ab7;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+}
+
+.panel-heading {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #337ab7;
+    padding: 10px 15px;
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+
+.panel-heading h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 16px;
+    color: inherit;
+}
+
+.panel-body {
+    padding: 15px;
+}
